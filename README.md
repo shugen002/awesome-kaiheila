@@ -29,7 +29,6 @@
 语言/平台|项目|介绍
 -|-|-
 Java|[kaiheila-sdk-java](https://github.com/FightingGuys/kaiheila-sdk-java)|Kaiheila OpenAPI SDK for Java
-NodeJS|[kaiheila-sdk-nodejs](https://github.com/FightingGuys/kaiheila-sdk-nodejs)|Kaiheila OpenAPI SDK for Nodejs
 PHP|[Kaiheila PHP EasyDev](https://github.com/hugoshao/Kaiheila_PHP_EasyDev)|面向开黑啦编程，由开黑啦开发者交流中心提供的PHP-SDK，可简称为PED
 C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotnet)|开黑啦的 .NET 5 SDK。
 
